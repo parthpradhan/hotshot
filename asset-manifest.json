@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/hotshot/static/css/main.abf3c0f2.chunk.css",
-    "main.js": "/hotshot/static/js/main.b42c1c98.chunk.js",
-    "main.js.map": "/hotshot/static/js/main.b42c1c98.chunk.js.map",
-    "runtime-main.js": "/hotshot/static/js/runtime-main.f016875a.js",
-    "runtime-main.js.map": "/hotshot/static/js/runtime-main.f016875a.js.map",
+    "main.css": "/hotshot/static/css/main.537f892f.chunk.css",
+    "main.js": "/hotshot/static/js/main.e203483d.chunk.js",
+    "main.js.map": "/hotshot/static/js/main.e203483d.chunk.js.map",
+    "runtime-main.js": "/hotshot/static/js/runtime-main.f2b9c34c.js",
+    "runtime-main.js.map": "/hotshot/static/js/runtime-main.f2b9c34c.js.map",
     "static/css/2.818011ed.chunk.css": "/hotshot/static/css/2.818011ed.chunk.css",
-    "static/js/2.ffad2807.chunk.js": "/hotshot/static/js/2.ffad2807.chunk.js",
-    "static/js/2.ffad2807.chunk.js.map": "/hotshot/static/js/2.ffad2807.chunk.js.map",
-    "static/js/3.3aa5226b.chunk.js": "/hotshot/static/js/3.3aa5226b.chunk.js",
-    "static/js/3.3aa5226b.chunk.js.map": "/hotshot/static/js/3.3aa5226b.chunk.js.map",
+    "static/js/2.954127c1.chunk.js": "/hotshot/static/js/2.954127c1.chunk.js",
+    "static/js/2.954127c1.chunk.js.map": "/hotshot/static/js/2.954127c1.chunk.js.map",
+    "static/js/3.a66c752d.chunk.js": "/hotshot/static/js/3.a66c752d.chunk.js",
+    "static/js/3.a66c752d.chunk.js.map": "/hotshot/static/js/3.a66c752d.chunk.js.map",
     "index.html": "/hotshot/index.html",
     "static/css/2.818011ed.chunk.css.map": "/hotshot/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.abf3c0f2.chunk.css.map": "/hotshot/static/css/main.abf3c0f2.chunk.css.map",
-    "static/js/2.ffad2807.chunk.js.LICENSE.txt": "/hotshot/static/js/2.ffad2807.chunk.js.LICENSE.txt"
+    "static/css/main.537f892f.chunk.css.map": "/hotshot/static/css/main.537f892f.chunk.css.map",
+    "static/js/2.954127c1.chunk.js.LICENSE.txt": "/hotshot/static/js/2.954127c1.chunk.js.LICENSE.txt",
+    "static/media/ayush.537ca81b.png": "/hotshot/static/media/ayush.537ca81b.png",
+    "static/media/harshit.2a59e833.png": "/hotshot/static/media/harshit.2a59e833.png",
+    "static/media/kota.6366b608.png": "/hotshot/static/media/kota.6366b608.png",
+    "static/media/parth.c3f2e518.png": "/hotshot/static/media/parth.c3f2e518.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f016875a.js",
+    "static/js/runtime-main.f2b9c34c.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.ffad2807.chunk.js",
-    "static/css/main.abf3c0f2.chunk.css",
-    "static/js/main.b42c1c98.chunk.js"
+    "static/js/2.954127c1.chunk.js",
+    "static/css/main.537f892f.chunk.css",
+    "static/js/main.e203483d.chunk.js"
   ]
 }
