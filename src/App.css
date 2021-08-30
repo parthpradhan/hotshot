@@ -75,6 +75,32 @@ p {
 .gop {
   font-size: 4.7em;
 }
+.imghelp {
+  width: 120px;
+  height: 120px;
+}
+.bl {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 3%;
+}
+.infa {
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 3%;
+}
+.name {
+  color: aliceblue;
+  font-style: italic;
+  font-weight: lighter;
+}
+.namesub {
+  color: orange;
+  font-style: italic;
+  font-weight: 400;
+}
+.parap {
+  color: lightgray;
+  font-weight: lighter;
+}
 .search-box {
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50px;
